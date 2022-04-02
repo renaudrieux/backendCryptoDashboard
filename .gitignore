@@ -33,5 +33,6 @@ build/
 .vscode/
 
 
-### A ignorer Renauid ###
+### A ignorer Renaud ###
 /src/main/resources/application.properties
+/src/test/resources/application.properties

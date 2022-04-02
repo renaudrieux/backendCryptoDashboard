@@ -7,4 +7,5 @@ import java.util.Optional;
 
 @Repository
 public interface CryptoRepository extends JpaRepository<Crypto, String> {
+
 }
