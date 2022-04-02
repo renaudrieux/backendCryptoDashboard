@@ -36,3 +36,4 @@ build/
 ### A ignorer Renaud ###
 /src/main/resources/application.properties
 /src/test/resources/application.properties
+src/test/resources/application.properties
